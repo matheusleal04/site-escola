@@ -1,4 +1,6 @@
-body {
-    background-color: #359689 ; 
-    color: white; 
-}
+.cabecalho
+
+
+{ background-color: #1c3cc9 ;  color: rgb(238, 31, 31); 
+
+display: flex;}
